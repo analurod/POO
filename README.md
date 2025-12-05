@@ -12,6 +12,7 @@ Cada atividade explora conceitos fundamentais da programação orientada a objet
 3. [Exercício 3 — Biblioteca Parte 2 (Extensão)](#exercício-3--biblioteca-parte-2-extensão)
 4. [Exercício 4 — Práticas de POO em TypeScript](#exercício-4--práticas-de-poo-em-typescript)
 5. [Exercício 5 — Sistema de Tarefas com POO + Prisma + SQLite](#exercício-5--sistema-de-tarefas-com-poo--prisma--sqlite)
+6. [Projeto em Grupo — POO (BD + Web)](#projeto-em-grupo--poo-bd--web)
 
 ---
 
@@ -141,6 +142,27 @@ Criar um sistema simples de tarefas (Todo List) com:
 - **TypeScript**
 - **Prisma 5**
 - **SQLite**
+
+---
+# Projeto em Grupo — POO (BD + Web)
+
+Durante a disciplina, também desenvolvemos um projeto em grupo, combinando:
+    - Programação Orientada a Objetos
+    - Banco de Dados (modelo relacional)
+    - Camada Web para interação
+    - Regras de negócio reais
+
+
+## Ideia do Projeto
+
+Criar um sistema completo aplicando:
+- Classes e relacionamentos
+- Padrões de projeto
+- CRUD completo com banco de dados
+- Interface Web funcional
+
+## Repositório do Projeto
+👉 Acesse o projeto em grupo aqui: [Projeto](https://github.com/KauanQuinzote/Conserta-Felix.git)
 
 ---
 
